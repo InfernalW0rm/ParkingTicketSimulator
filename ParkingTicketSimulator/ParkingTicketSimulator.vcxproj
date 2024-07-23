@@ -133,6 +133,7 @@
     <ClInclude Include="PoliceOfficer.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Main.cpp" />
     <ClCompile Include="ParkedCar.cpp" />
     <ClCompile Include="ParkingMeter.cpp" />
     <ClCompile Include="ParkingTicket.cpp" />
